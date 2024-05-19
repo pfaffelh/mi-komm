@@ -1,10 +1,80 @@
 \BOOKMARK [1][-]{section*.1}{Hinweise}{}% 1
 \BOOKMARK [2][-]{section*.2}{\334ber dieses Dokument}{section*.1}% 2
-\BOOKMARK [1][-]{section*.3}{Beispielveranstaltungen}{}% 3
-\BOOKMARK [2][-]{section*.4}{Basics in Applied Mathematics \(Patrick Dondl, Angelika Rohde\)}{section*.3}% 4
-\BOOKMARK [2][-]{section*.5}{Introduction to Theory and Numerics of Partial Differential Equations \(Diora Salimova\)}{section*.3}% 5
-\BOOKMARK [2][-]{section*.6}{Mathematical Statistics \(E. A. von Hammerstein\)}{section*.3}% 6
-\BOOKMARK [2][-]{section*.7}{Measure Theory for Probabilists \(Peter Pfaffelhuber\)}{section*.3}% 7
-\BOOKMARK [2][-]{section*.8}{Praktische \334bung zu 'Introduction to Theory and Numerics of Partial Differential Equations' \(Diora Salimova\)}{section*.3}% 8
-\BOOKMARK [2][-]{section*.9}{Medical Data Science \(Harald Binder\)}{section*.3}% 9
-\BOOKMARK [1][-]{section*.10}{Abk\374rzungen}{}% 10
+\BOOKMARK [1][-]{section*.3}{1a. Einf\374hrende Vorlesungen und Pflichtvorlesungen der verschiedenen Studieng\344nge}{}% 3
+\BOOKMARK [2][-]{section*.4}{Lineare Algebra II \(Angelika Rohde\)}{section*.3}% 4
+\BOOKMARK [2][-]{section*.9}{Analysis II \(Patrick Dondl\)}{section*.3}% 5
+\BOOKMARK [2][-]{section*.14}{Br\374ckenkurs Lineare Algebra \(Susanne Knies\)}{section*.3}% 6
+\BOOKMARK [2][-]{section*.19}{Numerik II \(Alexei Gazca\)}{section*.3}% 7
+\BOOKMARK [2][-]{section*.24}{Elementargeometrie \(Nadine Gro\337e\)}{section*.3}% 8
+\BOOKMARK [2][-]{section*.29}{Stochastik II \(Ernst August v. Hammerstein\)}{section*.3}% 9
+\BOOKMARK [1][-]{section*.34}{1b. Weiterf\374hrende vierst\374ndige Vorlesungen}{}% 10
+\BOOKMARK [2][-]{section*.35}{Kommutative Algebra und Einf\374hrung in die algebraische Geometrie \(Annette Huber-Klawitter\)}{section*.34}% 11
+\BOOKMARK [2][-]{section*.40}{Funktionalanalysis \(Ernst Kuwert\)}{section*.34}% 12
+\BOOKMARK [2][-]{section*.45}{Mathematische Logik \(Heike Mildenberger\)}{section*.34}% 13
+\BOOKMARK [2][-]{section*.50}{Topology \(Amador Mart\355n Pizarro\)}{section*.34}% 14
+\BOOKMARK [2][-]{section*.55}{Wahrscheinlichkeitstheorie \(Peter Pfaffelhuber\)}{section*.34}% 15
+\BOOKMARK [2][-]{section*.60}{Kurven und Fl\344chen \(Christian Ketterer\)}{section*.34}% 16
+\BOOKMARK [2][-]{section*.65}{Differentialgeometrie II \205 Vektorb\374ndel \(Nadine Gro\337e\)}{section*.34}% 17
+\BOOKMARK [2][-]{section*.70}{Maschinelles Lernen aus Stochastischer Sicht \(Thorsten Schmidt\)}{section*.34}% 18
+\BOOKMARK [2][-]{section*.75}{Algebraische Topologie II \(Sebastian Goette\)}{section*.34}% 19
+\BOOKMARK [1][-]{section*.80}{1c. Weiterf\374hrende zweist\374ndige Vorlesungen}{}% 20
+\BOOKMARK [2][-]{section*.81}{Mathematische Modellierung \(Michael Ru\236icka\)}{section*.80}% 21
+\BOOKMARK [2][-]{section*.86}{Gew\366hnliche Differentialgleichungen \(Florian Johne\)}{section*.80}% 22
+\BOOKMARK [2][-]{section*.91}{Mathematical Introduction to Deep Learning \(Diyora Salimova\)}{section*.80}% 23
+\BOOKMARK [2][-]{section*.96}{Applications of Set Theory in Algebra and in Topology \(Maxwell Levine\)}{section*.80}% 24
+\BOOKMARK [2][-]{section*.101}{Geometrische Variationsprobleme \(Ernst Kuwert\)}{section*.80}% 25
+\BOOKMARK [1][-]{section*.106}{1d. Lehrexportveranstaltungen}{}% 26
+\BOOKMARK [2][-]{section*.107}{Mathematik II f\374r Studierende der Informatik \(Ernst August v. Hammerstein\)}{section*.106}% 27
+\BOOKMARK [2][-]{section*.112}{Mathematik II f\374r Studierende der Ingenieurwissenschaften \(Sebastian Goette\)}{section*.106}% 28
+\BOOKMARK [2][-]{section*.117}{Mathematik II f\374r Studierende der Naturwissenschaften \(Susanne Knies\)}{section*.106}% 29
+\BOOKMARK [2][-]{section*.122}{Stochastik f\374r Studierende der Informatik \(David Criens\)}{section*.106}% 30
+\BOOKMARK [1][-]{section*.127}{2a. Begleitveranstaltungen}{}% 31
+\BOOKMARK [2][-]{section*.128}{Lernen durch Lehren \(Susanne Knies\)}{section*.127}% 32
+\BOOKMARK [2][-]{section*.133}{Betreutes Rechnen \(Organisation Fachschaft\)}{section*.127}% 33
+\BOOKMARK [1][-]{section*.138}{2b. Fachdidaktik}{}% 34
+\BOOKMARK [2][-]{section*.139}{Einf\374hrung in die Fachdidaktik der Mathematik \(Katharina B\366cherer-Linder\)}{section*.138}% 35
+\BOOKMARK [2][-]{section*.144}{Didaktik der Stochastik und der Algebra \(Katharina B\366cherer-Linder\)}{section*.138}% 36
+\BOOKMARK [2][-]{section*.149}{Fachdidaktische Forschung, Teil 1: Fachdidaktische Entwicklungsforschung zu ausgew\344hlten Schwerpunkten \(Frank Reinhold\)}{section*.138}% 37
+\BOOKMARK [2][-]{section*.154}{Fachdidaktische Forschung, Teil 3: Entwicklung und Optimierung eines fachdidaktischen Forschungsprojekts \(Dozent:inn:en der PH Freiburg\)}{section*.138}% 38
+\BOOKMARK [2][-]{section*.159}{Didaktik der Funktionen und der Analysis \(Ralf Erens\)}{section*.138}% 39
+\BOOKMARK [2][-]{section*.164}{Fachdidaktikseminar: Mathe<sub>Unterricht</sub> = Mathe<sub>Studium</sub> \261 x \(Holger Dietz\)}{section*.138}% 40
+\BOOKMARK [2][-]{section*.169}{Fachdidaktische Forschung, Teil 2: Methoden der mathematikdidaktischen Forschung \(Frank Reinhold\)}{section*.138}% 41
+\BOOKMARK [2][-]{section*.174}{Fachdidaktikseminare der PH Freiburg \(Dozent:inn:en der PH Freiburg\)}{section*.138}% 42
+\BOOKMARK [2][-]{section*.179}{Fachdidaktische Entwicklung: Gleichungen \(J\374rgen Kury\)}{section*.138}% 43
+\BOOKMARK [1][-]{section*.184}{2c. Praktische \334bungen}{}% 44
+\BOOKMARK [2][-]{section*.185}{Einf\374hrung in die Programmierung f\374r Studierende der Naturwissenschaften \(Ludwig Striet\)}{section*.184}% 45
+\BOOKMARK [2][-]{section*.190}{Praktische \334bung zu \214Numerik\215 \(Alexei Gazca\)}{section*.184}% 46
+\BOOKMARK [2][-]{section*.195}{Praktische \334bung zu \214Stochastik\215 \(Ernst August v. Hammerstein\)}{section*.184}% 47
+\BOOKMARK [2][-]{section*.200}{Einf\374hrung in Mathematica \(Robin Br\374ser\)}{section*.184}% 48
+\BOOKMARK [2][-]{section*.205}{Praktische \334bung zu MMngerman: "MM is now obsolete, please use MMM instead on input line 2318.aschinelles Lernen aus Stochastischer SichtUse `` for a simple double quote character.ngerman: The command "\ \040is undefined`` \(Thorsten Schmidt\)}{section*.184}% 49
+\BOOKMARK [1][-]{section*.210}{3a. Proseminare}{}% 50
+\BOOKMARK [2][-]{section*.211}{Proseminar: Unendlichdimensionale Vektorr\344ume \(Susanne Knies\)}{section*.210}% 51
+\BOOKMARK [2][-]{section*.216}{Proseminar: Kombinatorik \(Markus Junker\)}{section*.210}% 52
+\BOOKMARK [2][-]{section*.221}{Proseminar: Eindimensionale Variationsrechnung \(Patrick Dondl\)}{section*.210}% 53
+\BOOKMARK [1][-]{section*.226}{3b. Seminare}{}% 54
+\BOOKMARK [2][-]{section*.227}{Seminar: Geometrische Variationsprobleme \(Ernst Kuwert\)}{section*.226}% 55
+\BOOKMARK [2][-]{section*.232}{Seminar: Medical Data Science \(Harald Binder\)}{section*.226}% 56
+\BOOKMARK [2][-]{section*.237}{Seminar: Numerik partieller Differentialgleichungen \(S\366ren Bartels\)}{section*.226}% 57
+\BOOKMARK [2][-]{section*.242}{Seminar: Uniforme zentrale Grenzwerts\344tze f\374r stochastische Prozesse \(Uniform central limit theorems for stochastic processes\) \(Angelika Rohde\)}{section*.226}% 58
+\BOOKMARK [2][-]{section*.247}{Seminar: Prikry-Forcing \(Heike Mildenberger\)}{section*.226}% 59
+\BOOKMARK [2][-]{section*.252}{Seminar: Funktionenk\366rper \(Andreas Demleitner\)}{section*.226}% 60
+\BOOKMARK [2][-]{section*.257}{Seminar: Die Mathematik und das G\366ttliche \(Andreas Henn, Markus Junker\)}{section*.226}% 61
+\BOOKMARK [2][-]{section*.262}{Seminar: Die Geometrie von Bl\344tterungen \(Christian Ketterer, Jonas Schnitzer\)}{section*.226}% 62
+\BOOKMARK [2][-]{section*.267}{Seminar: Einf\374hrung in Maschinelles Lernen \(Michael B\366hler\)}{section*.226}% 63
+\BOOKMARK [1][-]{section*.272}{4b. Oberseminare}{}% 64
+\BOOKMARK [2][-]{section*.273}{Oberseminar: Algebra, Zahlentheorie und algebraische Geometrie \(Annette Huber-Klawitter, Wolfgang Soergel\)}{section*.272}% 65
+\BOOKMARK [2][-]{section*.278}{Oberseminar: Angewandte Mathematik \(S\366ren Bartels, Patrick Dondl, Michael Ru\236icka, Diyora Salimova\)}{section*.272}% 66
+\BOOKMARK [2][-]{section*.283}{Oberseminar: Differentialgeometrie \(Sebastian Goette, Nadine Gro\337e, Christian Ketterer\)}{section*.272}% 67
+\BOOKMARK [2][-]{section*.288}{Oberseminar: Mathematische Logik \(Amador Mart\355n Pizarro, Heike Mildenberger\)}{section*.272}% 68
+\BOOKMARK [2][-]{section*.293}{Oberseminar: Stochastik \(David Criens, Peter Pfaffelhuber, Angelika Rohde, Thorsten Schmidt\)}{section*.272}% 69
+\BOOKMARK [2][-]{section*.298}{Oberseminar: Medizinische Statistik \(Harald Binder\)}{section*.272}% 70
+\BOOKMARK [1][-]{section*.303}{4a. Projektseminare und Lesekurse}{}% 71
+\BOOKMARK [2][-]{section*.304}{Lesekurse \214Wissenschaftliches Arbeiten\215 \(Alle Professor:inn:en und Privatdozent:inn:en des Mathematischen Instituts\)}{section*.303}% 72
+\BOOKMARK [2][-]{section*.309}{Projektseminar: Nicht-Newtonsche Fl\374ssigkeiten \(Michael Ru\236icka\)}{section*.303}% 73
+\BOOKMARK [2][-]{section*.314}{Projektseminar: Geometrische Analysis \(Ernst Kuwert, Guofang Wang\)}{section*.303}% 74
+\BOOKMARK [2][-]{section*.319}{Projektseminar: Numerische Analysis \(S\366ren Bartels\)}{section*.303}% 75
+\BOOKMARK [1][-]{section*.324}{4c. Kolloquien und weitere Veranstaltungen}{}% 76
+\BOOKMARK [2][-]{section*.325}{Seminar \374ber Datenanalyse und Modellbildung \(Harald Binder, Peter Pfaffelhuber, Angelika Rohde, Thorsten Schmidt, Jens Timmer\)}{section*.324}% 77
+\BOOKMARK [2][-]{section*.330}{Didaktisches Seminar \(Katharina B\366cherer-Linder, Ernst Kuwert\)}{section*.324}% 78
+\BOOKMARK [2][-]{section*.335}{Kolloquium der Mathematik \(Nadine Gro\337e, Amador Mart\355n Pizarro\)}{section*.324}% 79
+\BOOKMARK [2][-]{section*.340}{Mathematisches Kolloquium f\374r Studierende \(Annette Huber-Klawitter, Markus Junker, Amador Mart\355n Pizarro\)}{section*.324}% 80

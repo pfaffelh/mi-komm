@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  19 MAY 2024 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  19 MAY 2024 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
 \c@section=\count168
@@ -425,7 +425,12 @@ LaTeX Info: Redefining \nameref on input line 42.
 \openout3 = `main.out'.
 
 
-Overfull \hbox (0.27121pt too wide) in paragraph at lines 49--50
+Overfull \hbox (0.12079pt too wide) in paragraph at lines 46--47
+[][] 
+ []
+
+
+Overfull \hbox (0.14824pt too wide) in paragraph at lines 49--50
 [][] 
  []
 
@@ -451,199 +456,2659 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [2
+
+]
+ngerman: "MM is now obsolete, please use MMM instead on input line 57.
+! ngerman: The command \errhelp {Use `` for a simple double quote character.}\e
+rrmessage {ngerman: The command "\  is undefined}``\ is undefined.
+<argument> ...german: The command "\ is undefined}
+                                                  ``\ \leavevmode {\color {g...
+l.57 ...(\em Thorsten Schmidt)}}{58}{section*.205}
+                                                  %
+? r
+OK, entering \nonstopmode...
+[3])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2
+ [4] (./veranstaltungen_2024SS.tex [5
+
+] [6
 
 ]
-Underfull \hbox (badness 1389) in paragraph at lines 83--83
-[]\OT1/cmr/m/n/10.95 Advanced Lec-ture in
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
  []
 
-[3
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.81 \end{tabularx}
+                   
+Use `` for a simple double quote character.
 
-] [4] [5
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.81 \end{tabularx}
+                   
+Use `` for a simple double quote character.
 
-] (./veranstaltung.tex [6
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 167--167
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 167--167
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 167--167
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 167--167
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-|[]
- []
-
-
-Overfull \hbox (19.87086pt too wide) in paragraph at lines 167--167
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 167--167
-[]
- []
+ngerman: "LL is now obsolete, please use LLL instead on input line 81.
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.81 \end{tabularx}
+                   
+Use `` for a simple double quote character.
 
 [7
 
+
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-|[]
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
  []
 
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.178 \end{tabularx}
+                    
+Use `` for a simple double quote character.
 
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 276--276
-[]
- []
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.178 \end{tabularx}
+                    
+Use `` for a simple double quote character.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 276--276
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 276--276
-[]
- []
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.178 \end{tabularx}
+                    
+Use `` for a simple double quote character.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 276--276
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-|[]
- []
-
-
-Overfull \hbox (19.87086pt too wide) in paragraph at lines 276--276
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-|[]
- []
-
-
-Overfull \hbox (6.27086pt too wide) in paragraph at lines 276--276
-[]
+Underfull \hbox (badness 1077) in paragraph at lines 178--178
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
  []
 
 [8
 
-] [9
+] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
-] [10
+ []
 
-] [11
 
-])
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 431--140
+Underfull \hbox (badness 10000) in alignment at lines 195--195
+[] 
+ []
+
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.244 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.244 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+ngerman: "NN is now obsolete, please use NNN instead on input line 244.
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.244 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 244--244
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 250--252
+
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 305--305
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+[12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 311--313
+
+ []
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.381 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.381 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.381 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 381--381
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+[13
+
+] [14
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 400--402
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 534--534
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.534 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+[15
+
+
+
+]
+Overfull \vbox (6.04375pt too high) has occurred while \output is active []
+
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 540--542
+
+ []
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--703
+|[]
+ []
+
+
+Overfull \hbox (5.18504pt too wide) in paragraph at lines 703--703
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--140
+Underfull \hbox (badness 1077) in paragraph at lines 703--703
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.703 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+[17
+
+]
+Overfull \vbox (95.00482pt too high) has occurred while \output is active []
+
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 709--711
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-[12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 847--847
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.847 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+[19
+
+] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 853--855
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 991--991
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.991 \end{tabularx}
+                    
+Use `` for a simple double quote character.
+
+[21
+
+] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 997--999
+
+ []
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 1135--1135
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1135 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[23
+
+] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1143
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 1279--1279
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "b is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "V is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1279 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[25
+
+] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1287
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1297--1297
+[] 
+ []
+
+[27
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1303--1305
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1315--1315
+[] 
+ []
+
+[28
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1323
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1333--1333
+[] 
+ []
+
+[29
+
+] [30
+
+]
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 1350.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1350.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1352--1354
+
+ []
+
+! ngerman: The command ", is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1483 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1483 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ", is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1483 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1483 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ", is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1483 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+ngerman: "MM is now obsolete, please use MMM instead on input line 1483.
+
+Underfull \hbox (badness 1077) in paragraph at lines 1483--1483
+[]|[]\OT1/cmr/m/n/10 Abgegebene []Ubungs-auf-ga-ben m[]ussen auf Auf-for-de-run
+g
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1483 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 1483--1483
+[]|[]\OT1/cmr/m/n/10 Die ab-sol-vier-te Stu-dien-leis-tung z[]ahlt mit 4,5 ECTS
+-
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 1483--1483
+[]|[]\OT1/cmr/m/n/10 Die Zu-sam-men-set-zung des Mo-duls muss mit dem
+ []
+
+[31
+
+
+
+] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1491
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1501--1501
+[] 
+ []
+
+[33
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1507--1509
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1519--1519
+[] 
+ []
+
+[34
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1527
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1537--1537
+[] 
+ []
+
+[35
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1545
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1555--1555
+[] 
+ []
+
+[36
+
+] [37
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1574--1576
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1586--1586
+[] 
+ []
+
+[38
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1594
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1604--1604
+[] 
+ []
+
+[39
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1610--1612
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1622--1622
+[] 
+ []
+
+[40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1630
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1640--1640
+[] 
+ []
+
+[41
+
+] [42
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1699 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1699 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1699 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[43
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1705--1706
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 1716--1716
+[] 
+ []
+
+[44
+
+] [45
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
+
+ []
+
+[46
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1778
+
+ []
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1835 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1835 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+ngerman: "FF is now obsolete, please use FFF instead on input line 1835.
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1835 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 1835--1835
+[]|[]\OT1/cmr/m/n/10 Teil des nur kom-plett ab-sol-vier-ba-ren zwei-se-mest-ri-
+gen
+ []
+
+[47
+
+]
+Overfull \hbox (5.01515pt too wide) in paragraph at lines 1838--1838
+[][]\OT1/cmr/bx/n/14.4 Fachdidaktische For-schung, Teil 1: Fach-di-dak-ti-sche 
+Ent-wick-lungs-for-schung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1841--1843
+
+ []
+
+[48
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1874--1875
+
+ []
+
+[49
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1906--1908
+
+ []
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1965 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1965 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+ngerman: "FF is now obsolete, please use FFF instead on input line 1965.
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.1965 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 1965--1965
+[]|[]\OT1/cmr/m/n/10 Teil des nur kom-plett ab-sol-vier-ba-ren zwei-se-mest-ri-
+gen
+ []
+
+[50
+
+]
+Overfull \hbox (52.04683pt too wide) in paragraph at lines 1968--1968
+[][]\OT1/cmr/bx/n/14.4 Fachdidaktikseminar: Ma-the<sub>Unterricht</sub> = Ma-th
+e<sub>Studium</sub>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1973
+
+ []
+
+[51
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2026--2028
+
+ []
+
+[52
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2059--2060
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 2070--2070
+[] 
+ []
+
+[53
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2076--2078
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 2088--2088
+[] 
+ []
+
+[54
+
+] [55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2107--2109
+
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 2171--2171
+[]|[]\OT1/cmr/m/n/10 Die An-for-de-run-gen des Kur-ses ent-spre-chen 6 ECTS-
+ []
+
+[56
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2177--2178
+
+ []
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2233 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2233 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+ngerman: "NN is now obsolete, please use NNN instead on input line 2233.
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2233 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[57
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2239--2241
+
+ []
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2296 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2296 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command "( is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2296 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[58
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 2314--2314
+[] 
+ []
+
+[59
+
+]
+ngerman: "MM is now obsolete, please use MMM instead on input line 2317.
+! ngerman: The command "\@@par is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2317 ...nelles Lernen aus Stochastischer Sicht"}
+                                                  
+Use `` for a simple double quote character.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\immediate' on input line 2318.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\write' on input line 2318.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\sixt@@n' on input line 2318.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\errhelp' on input line 2318.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\errmessage' on input line 2318.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2320--2321
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 2331--2331
+[] 
+ []
+
+[60
+
+] [61
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2350--2352
+
+ []
+
+[62
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2383--2385
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 2395--2395
+[] 
+ []
+
+[63
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2401--2403
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 2413--2413
+[] 
+ []
+
+[64
+
+] [65
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2432--2433
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2530 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2530 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2530
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2530--2530
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2530
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 2530--2530
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2530
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2530--2530
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2530
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2530--2530
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2530
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2530--2530
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2530
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2530--2530
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2530 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[66
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2536--2538
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2635 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2635 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2635
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2635--2635
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2635
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 2635--2635
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2635
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2635--2635
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2635
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2635--2635
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2635
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2635--2635
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2635
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2635--2635
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2635 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[67
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2643
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2740 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2740 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2740
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2740--2740
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2740
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2740--2740
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2740
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2740--2740
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2740
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 2740--2740
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2740
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2740--2740
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2740
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2740--2740
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2740 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[68
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2844 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2844 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2844
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2844--2844
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2844
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2844--2844
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2844
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2844--2844
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2844
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2844--2844
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2844
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 2844--2844
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2844
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2844--2844
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2844 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[69
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2852
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2949 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2949 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2949--2949
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2949--2949
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2949--2949
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2949--2949
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2949--2949
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 2949--2949
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2949--2949
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2949--2949
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2949--2949
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2949--2949
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2949--2949
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 2949--2949
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.2949 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[70
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2955--2957
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.3054 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.3054 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3054
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3054--3054
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3054
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 3054--3054
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3054
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3054--3054
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3054
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3054--3054
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3054
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3054--3054
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3054--3054
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3054--3054
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.3054 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[71
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3060--3062
+
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.3159 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.3159 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3159
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3159--3159
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3159
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3159--3159
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3159
+|[]
+ []
+
+
+Overfull \hbox (13.32088pt too wide) in paragraph at lines 3159--3159
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3159
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3159--3159
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3159
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3159--3159
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3159
+|[]
+ []
+
+
+Overfull \hbox (1.32088pt too wide) in paragraph at lines 3159--3159
+[]
+ []
+
+! ngerman: The command ". is undefined.
+\grmn@dq@error ...and \dq \string #1 is undefined}
+                                                  
+l.3159 \end{tabularx}
+                     
+Use `` for a simple double quote character.
+
+[72
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3165--3167
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3177--3177
+[] 
+ []
+
+[73
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3183--3185
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3195--3195
+[] 
+ []
+
+[74
+
+] [75
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3214--3216
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3226--3226
+[] 
+ []
+
+[76
+
+
+
+]
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 3230.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 3230.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3232--3234
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3244--3244
+[] 
+ []
+
+[77
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3250--3252
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3262--3262
+[] 
+ []
+
+[78
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3268--3270
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3280--3280
+[] 
+ []
+
+[79
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3286--3288
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3298--3298
+[] 
+ []
+
+[80
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3304--3306
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3316--3316
+[] 
+ []
+
+[81
+
+] [82
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3335--3336
+
+ []
+
+[83
+
+
+
+]
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 3404.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 3404.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3406--3408
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3418--3418
+[] 
+ []
+
+[84
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3424--3426
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3436--3436
+[] 
+ []
+
+[85
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3442--3443
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3453--3453
+[] 
+ []
+
+[86
+
+] [87
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3472--3474
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3484--3484
+[] 
+ []
+
+[88
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3490--3492
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3502--3502
+[] 
+ []
+
+[89
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3508--3510
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3520--3520
+[] 
+ []
+
+[90
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3526--3528
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 3538--3538
+[] 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+ [91
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5369B9849C1D420CCB35E7706473AE46;905.
+(rerunfilecheck)             Checksum: 2F5683231EF0C107D620D51BA42078F2;9027.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 117.38377pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 10489 strings out of 481239
- 179193 string characters out of 5920377
- 444287 words of memory out of 5000000
- 25544 multiletter control sequences out of 15000+600000
- 540218 words of font info for 54 fonts, out of 8000000 for 9000
+ 10970 strings out of 481239
+ 184598 string characters out of 5920377
+ 455184 words of memory out of 5000000
+ 25617 multiletter control sequences out of 15000+600000
+ 537586 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,19n,39p,633b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (12 pages, 115883 bytes).
+ 36i,19n,47p,499b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/zapfding/uzdr.pfb>
+Output written on main.pdf (91 pages, 296519 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1267 PDF objects out of 1440 (max. 8388607)
+ 1149 compressed objects within 12 object streams
+ 436 named destinations out of 1000 (max. 500000)
+ 641 words of extra memory for PDF output out of 10000 (max. 10000000)
 

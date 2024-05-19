@@ -1,0 +1,3 @@
+\contentsline {section}{{Hinweise}}{3}{section*.1}%
+\vspace \medskipamount \hrule \vspace \medskipamount 
+\contentsline {subsection}{Über dieses Dokument}{3}{section*.2}%

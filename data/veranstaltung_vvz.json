@@ -1,0 +1,26 @@
+{
+  "rubriken": [
+    {
+      "titel": "zwei-stündige Vorlesung",
+      "veranstaltung": [
+        {
+          "titel": "Basics in Applied Mathematics",
+          "dozent": "alle",
+          "basic_text": ["Erste Zeile", "Zweite Zeile"],
+          "inhalt": "Inhalt",
+          "literatur": "Literatur",
+          "vorkenntnisse": "Vorkenntnisse",
+          "kommentar": "Kommentar",
+          "verwendbarkeit_modul": [{"_id": "id1", "titel": "name von modul"}],
+          "verwendbarkeit_anforderung": [{"_id": "id2", "titel": "name von modul"}],
+          "verwendbarkeit": [
+            {
+              "modul": "id1",
+              "anforderung": "id2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
