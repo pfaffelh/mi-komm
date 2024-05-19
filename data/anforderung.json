@@ -1,0 +1,49 @@
+{
+  "anforderung": [
+    {
+      "id": 1,
+      "anforderungkategorie": "PL",
+      "titel_de": "Mündliche Abschlussprüfung (Dauer ca. 30 Minuten)"
+    },
+    {
+      "id": 2,
+      "anforderungkategorie": "PL",
+      "titel_de": "Mündliche Abschlussprüfung über alle Teile des Moduls (Dauer ca. 45 Minuten)"
+    },
+    {
+      "id": 3,
+      "anforderungkategorie": "SL",
+      "titel_de": "Erreichen von mindestens 50\\% der Punkte, die insgesamt durch die Bearbeitung für die Übung ausgegebenen Übungsaufgaben erreicht werden können."
+    },
+    {
+      "id": 4,
+      "anforderungkategorie": "SL",
+      "titel_de": "Mindestens 1-maliges Vorrechnen von Übungsaufgaben im Tutorat."
+    },
+    {
+      "id": 5,
+      "anforderungkategorie": "PL",
+      "titel_de": "Vortrag (Dauer 45 bis 90 Minuten)"
+    },
+    {
+      "id": 6,
+      "anforderungkategorie": "SL",
+      "titel_de": "Regelmäßige Teilnahme an der Veranstaltung (wie in der Prüfungsordnung definiert)."
+    },
+    {
+      "id": 7,
+      "anforderungkategorie": "SL",
+      "titel_de": "Klausur (ein- bis dreistündig)."
+    },
+    {
+      "id": 8,
+      "anforderungkategorie": "PL",
+      "titel_de": "Klausur (ein- bis dreistündig)."
+    },
+    {
+      "id": 9,
+      "anforderungkategorie": "SL",
+      "titel_de": "Erreichen von mindestens 50\\% der Punkte, die insgesamt durch die Bearbeitung der für die Praktische Übung ausgegebenen Programmieraufgaben erreicht werden können."
+    }
+  ]
+}

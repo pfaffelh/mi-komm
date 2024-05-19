@@ -1,0 +1,12 @@
+\contentsline {section}{{Hinweise}}{3}{section*.1}%
+\vspace \medskipamount \hrule \vspace \medskipamount 
+\contentsline {subsection}{Über dieses Dokument}{3}{section*.2}%
+\contentsline {section}{\textbf {Beispielveranstaltungen}}{5}{section*.3}%
+\vspace \medskipamount \hrule \vspace \medskipamount 
+\contentsline {subsection}{Basics in Applied Mathematics\ \leavevmode {\color {gray}(\textit {Patrick Dondl, Angelika Rohde})}}{6}{section*.4}%
+\contentsline {subsection}{Introduction to Theory and Numerics of Partial Differential Equations\ \leavevmode {\color {gray}(\textit {Diora Salimova})}}{7}{section*.5}%
+\contentsline {subsection}{Mathematical Statistics\ \leavevmode {\color {gray}(\textit {E. A. von Hammerstein})}}{8}{section*.6}%
+\contentsline {subsection}{Measure Theory for Probabilists\ \leavevmode {\color {gray}(\textit {Peter Pfaffelhuber})}}{9}{section*.7}%
+\contentsline {subsection}{Praktische Übung zu 'Introduction to Theory and Numerics of Partial Differential Equations'\ \leavevmode {\color {gray}(\textit {Diora Salimova})}}{10}{section*.8}%
+\contentsline {subsection}{Medical Data Science\ \leavevmode {\color {gray}(\textit {Harald Binder})}}{11}{section*.9}%
+\contentsline {section}{Abkürzungen}{12}{section*.10}%

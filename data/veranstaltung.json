@@ -1,0 +1,320 @@
+{
+  "veranstaltung": [
+    {
+      "titel_de": "Basics in Applied Mathematics",
+      "kategorie": "4-stündige Vorlesung mit 2-stündiger Übung und 2-stündiger Pratkischer Übung",
+      "dozent": ["Patrick Dondl", "Angelika Rohde"],
+      "assistent": [],
+      "raumzeit": [
+        "Vorlesung: Di, Do 8-10, HS II, Albertstr. 23b",
+        "Praktische Übung: Termine werden noch festgelegt"
+      ],
+      "verwendbarkeit_modul": [5],
+      "verwendbarkeit_anforderung": [3, 4, 7],
+      "verwendbarkeit": [
+        {
+          "modul": 5,
+          "anforderung": 3
+        },
+        {
+          "modul": 5,
+          "anforderung": 4
+        },
+        {
+          "modul": 5,
+          "anforderung": 7
+        }
+      ]
+    },
+    {
+      "titel_de": "Introduction to Theory and Numerics of Partial Differential Equations",
+      "kategorie": "4-stündige Vorlesung mit 2-stündiger Übung",
+      "dozent": ["Diora Salimova"],
+      "assistent": [],
+      "raumzeit": [
+        "Vorlesung: Di, Fr 12-14, SR 226, Hermann-Herder-Str. 10",
+        "Übung (2-stündig): Termin wird noch festgelegt"
+      ],
+      "verwendbarkeit_modul": [1, 2, 3, 4, 6, 7],
+      "verwendbarkeit_anforderung": [1, 2, 8, 7, 3, 4],
+      "verwendbarkeit": [
+        {
+          "modul": 1,
+          "anforderung": 1
+        },
+        {
+          "modul": 1,
+          "anforderung": 3
+        },
+        {
+          "modul": 1,
+          "anforderung": 4
+        },
+        {
+          "modul": 1,
+          "anforderung": 7
+        },
+        {
+          "modul": 6,
+          "anforderung": 1
+        },
+        {
+          "modul": 6,
+          "anforderung": 3
+        },
+        {
+          "modul": 6,
+          "anforderung": 4
+        },
+        {
+          "modul": 6,
+          "anforderung": 7
+        },
+        {
+          "modul": 2,
+          "anforderung": 1
+        },
+        {
+          "modul": 2,
+          "anforderung": 3
+        },
+        {
+          "modul": 2,
+          "anforderung": 4
+        },
+        {
+          "modul": 2,
+          "anforderung": 7
+        },
+        {
+          "modul": 3,
+          "anforderung": 2
+        },
+        {
+          "modul": 3,
+          "anforderung": 3
+        },
+        {
+          "modul": 3,
+          "anforderung": 4
+        },
+        {
+          "modul": 3,
+          "anforderung": 7
+        },
+        {
+          "modul": 4,
+          "anforderung": 3
+        },
+        {
+          "modul": 4,
+          "anforderung": 4
+        },
+        {
+          "modul": 4,
+          "anforderung": 6
+        },
+        {
+          "modul": 4,
+          "anforderung": 8
+        },
+        {
+          "modul": 7,
+          "anforderung": 3
+        },
+        {
+          "modul": 7,
+          "anforderung": 4
+        },
+        {
+          "modul": 7,
+          "anforderung": 6
+        },
+        {
+          "modul": 7,
+          "anforderung": 8
+        }
+      ]
+    },
+    {
+      "titel_de": "Mathematical Statistics",
+      "kategorie": "4-stündige Vorlesung mit 2-stündiger Übung",
+      "dozent": ["E. A. von Hammerstein"],
+      "assistent": [],
+      "raumzeit": [
+        "Vorlesung: Di, Do 14-16, HS Weismann-Haus, Albertstr. 21a",
+        "Übung (2-stündig): Termin wird noch festgelegt"
+      ],
+      "verwendbarkeit_modul": [1, 2, 3, 4, 6, 7],
+      "verwendbarkeit_anforderung": [1, 2, 3, 4],
+      "verwendbarkeit": [
+        {
+          "modul": 1,
+          "anforderung": 1
+        },
+        {
+          "modul": 1,
+          "anforderung": 3
+        },
+        {
+          "modul": 1,
+          "anforderung": 4
+        },
+        {
+          "modul": 6,
+          "anforderung": 1
+        },
+        {
+          "modul": 6,
+          "anforderung": 3
+        },
+        {
+          "modul": 6,
+          "anforderung": 4
+        },
+        {
+          "modul": 2,
+          "anforderung": 1
+        },
+        {
+          "modul": 2,
+          "anforderung": 3
+        },
+        {
+          "modul": 2,
+          "anforderung": 4
+        },
+        {
+          "modul": 3,
+          "anforderung": 2
+        },
+        {
+          "modul": 3,
+          "anforderung": 3
+        },
+        {
+          "modul": 3,
+          "anforderung": 4
+        },
+        {
+          "modul": 4,
+          "anforderung": 3
+        },
+        {
+          "modul": 4,
+          "anforderung": 4
+        },
+        {
+          "modul": 4,
+          "anforderung": 6
+        },
+        {
+          "modul": 7,
+          "anforderung": 3
+        },
+        {
+          "modul": 7,
+          "anforderung": 4
+        },
+        {
+          "modul": 7,
+          "anforderung": 6
+        }
+      ]
+    },
+    {
+      "titel_de": "Measure Theory for Probabilists",
+      "kategorie": "Online-Kurs mit 2-stündiger Übung",
+      "dozent": ["Peter Pfaffelhuber"],
+      "assistent": ["Samuel Adeosun"],
+      "raumzeit": [
+        "Vorlesung (2-stündig): asynchrone Videos",
+        "Übung (2-stündig): Termin wird noch festgelegt"
+      ],
+      "verwendbarkeit_modul": [8],
+      "verwendbarkeit_anforderung": [3, 4],
+      "verwendbarkeit": [
+        {
+          "modul": 8,
+          "anforderung": 3
+        },
+        {
+          "modul": 8,
+          "anforderung": 4
+        }
+      ]
+    },
+    {
+      "titel_de": "Praktische Übung zu 'Introduction to Theory and Numerics of Partial Differential Equations'",
+      "kategorie": "2-stündige Praktische Übung",
+      "dozent": ["Diora Salimova"],
+      "assistent": [],
+      "raumzeit": ["2-stündig: Termin wird noch festgelegt"],
+      "verwendbarkeit_modul": [11, 15, 8],
+      "verwendbarkeit_anforderung": [6, 9],
+      "verwendbarkeit": [
+        {
+          "modul": 11,
+          "anforderung": 6
+        },
+        {
+          "modul": 15,
+          "anforderung": 6
+        },
+        {
+          "modul": 8,
+          "anforderung": 6
+        },
+        {
+          "modul": 11,
+          "anforderung": 9
+        },
+        {
+          "modul": 15,
+          "anforderung": 9
+        },
+        {
+          "modul": 8,
+          "anforderung": 9
+        }
+      ]
+    },
+    {
+      "titel_de": "Medical Data Science",
+      "kategorie": "Seminar",
+      "dozent": ["Harald Binder"],
+      "assistent": [],
+      "raumzeit": [
+        "Mi 10-11:30, HS Medizinische Biometrie, Stefan-Meier-Str. 26"
+      ],
+      "verwendbarkeit_modul": [12, 10, 9],
+      "verwendbarkeit_anforderung": [5, 6],
+      "verwendbarkeit": [
+        {
+          "modul": 9,
+          "anforderung": 5
+        },
+        {
+          "modul": 9,
+          "anforderung": 6
+        },
+        {
+          "modul": 12,
+          "anforderung": 5
+        },
+        {
+          "modul": 12,
+          "anforderung": 6
+        },
+        {
+          "modul": 10,
+          "anforderung": 5
+        },
+        {
+          "modul": 10,
+          "anforderung": 6
+        }
+      ]
+    }
+  ]
+}

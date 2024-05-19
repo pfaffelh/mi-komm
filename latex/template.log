@@ -1,0 +1,890 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.20)  6 MAY 2024 08:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex
+(/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \#
+      {Alle Veranstaltungen}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no # in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:4: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \clearpage
+              \hrule\vskip1pt\hrule
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1]
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: Undefined control sequence.
+l.5 \section
+            *{\Large \VAR{veranstaltung["titel_de"]}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \section*
+             {\Large \VAR{veranstaltung["titel_de"]}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: Undefined control sequence.
+l.5 \section*{\Large
+                     \VAR{veranstaltung["titel_de"]}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: Undefined control sequence.
+l.5 \section*{\Large \VAR
+                         {veranstaltung["titel_de"]}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: Missing $ inserted.
+<inserted text> 
+                $
+l.5 \section*{\Large \VAR{veranstaltung["titel_
+                                               de"]}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: Extra }, or forgotten $.
+l.5 ...ion*{\Large \VAR{veranstaltung["titel_de"]}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:5: Extra }, or forgotten $.
+l.5 ...on*{\Large \VAR{veranstaltung["titel_de"]}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:6: Undefined control sequence.
+<argument> ...ect \contentsline {subsection}{\VAR 
+                                                  {veranstaltung["titel_de"]...
+l.6 ...VAR{", ".join(veranstaltung["dozent"])}})}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:6: Undefined control sequence.
+<argument> ...anstaltung["titel_de"]}\ \textcolor 
+                                                  {gray}{(\textit {\VAR {", ...
+l.6 ...VAR{", ".join(veranstaltung["dozent"])}})}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:6: Undefined control sequence.
+<argument> ...}\ \textcolor {gray}{(\textit {\VAR 
+                                                  {", ".join(veranstaltung["...
+l.6 ...VAR{", ".join(veranstaltung["dozent"])}})}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:7: Missing $ inserted.
+<inserted text> 
+                $
+l.7 \vskip
+          -2ex
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (37.09694pt too wide) in paragraph at lines 5--7
+[]$[]\OML/cmm/m/it/10 e\OT1/cmr/m/n/10 "][]$ 
+ []
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:8: Undefined control sequence.
+l.8 {\itshape \VAR
+                  {", ".join(veranstaltung["dozent"])}},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:8: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 {\itshape \VAR{"
+                    , ".join(veranstaltung["dozent"])}},
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no : in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:11: Undefined control sequence.
+l.11 {\itshape \VAR
+                   {", ".join(veranstaltung["assistent"])}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:16: Undefined control sequence.
+<recently read> \VAR 
+                     
+l.16 \VAR
+         {veranstaltung["kategorie"]} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no ] in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:17: Undefined control sequence.
+<recently read> \VAR 
+                     
+l.17 \VAR
+         {"\\\\ ".join(veranstaltung["raumzeit"])}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (28.21107pt too wide) in paragraph at lines 8--18
+[]\OT1/cmr/m/it/10 ",
+ []
+
+
+Overfull \hbox (135.16028pt too wide) in paragraph at lines 8--18
+\OT1/cmr/m/it/10 ".join(veranstaltung["dozent"])
+ []
+
+
+Overfull \hbox (8.21107pt too wide) in paragraph at lines 8--18
+\OT1/cmr/m/it/10 ",
+ []
+
+
+Overfull \hbox (144.61577pt too wide) in paragraph at lines 8--18
+\OT1/cmr/m/it/10 ".join(veranstaltung["assistent"])
+ []
+
+
+Overfull \hbox (20.99988pt too wide) in paragraph at lines 8--18
+\OT1/cmr/m/it/10 N.N. 
+ []
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:20: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \begin{tabularx}
+                     {\textwidth}{ p{.5\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.20 \begin{tabularx}{\textwidth}
+                                 { p{.5\textwidth}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.20 \begin{tabularx}{\textwidth}
+                                 { p{.5\textwidth}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:20: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \begin{tabularx}{\textwidth}{ p
+                                    {.5\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:20: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.20 \begin{tabularx}{\textwidth}{ p{.5\textwidth}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:20: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.20 \begin{tabularx}{\textwidth}{ p{.5\textwidth}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no X in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:26: Misplaced alignment tab character &.
+l.26     &
+          
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:27: Undefined control sequence.
+l.27     \makecell
+                  [c]{\rotatebox[origin=l]{90}{\parbox{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no ] in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:27: Undefined control sequence.
+l.27     \makecell[c]{\rotatebox
+                                [origin=l]{90}{\parbox{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   3
+l.39     \end{flushleft} }
+                          }}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: Undefined control sequence.
+<argument> ...rboxrestore \begin {flushleft} \VAR 
+                                                  {m["titel_de"]} \end {flus...
+l.39     \end{flushleft} }
+                          }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: Missing $ inserted.
+<inserted text> 
+                $
+l.39     \end{flushleft} }
+                          }}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: Extra }, or forgotten $.
+<argument> ...gin {flushleft} \VAR {m["titel_de"]}
+                                                   \end {flushleft} \@@par 
+l.39     \end{flushleft} }
+                          }}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: LaTeX Error: Command \end{flushleft} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     \end{flushleft} }
+                          }}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     \end{flushleft} }
+                          }}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39     \end{flushleft} }
+                          }}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: Missing $ inserted.
+<inserted text> 
+                $
+l.39     \end{flushleft} }
+                          }}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:39: Missing } inserted.
+<inserted text> 
+                }
+l.39     \end{flushleft} }
+                          }}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (9.09694pt too wide) in paragraph at lines 39--39
+[]$[]\OML/cmm/m/it/10 e\OT1/cmr/m/n/10 "]$ 
+ []
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:41: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.41     \\[2ex] \hline
+                       
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 20--41
+[]
+ []
+
+
+Overfull \hbox (8.0pt too wide) in paragraph at lines 20--41
+[]$ 
+ []
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:45: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45     \rule[0mm]{0cm}{.6cm}
+                              \VAR{m["titel_de"]} (\VAR{m["anforderungkatego...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:45: Undefined control sequence.
+l.45     \rule[0mm]{0cm}{.6cm}\VAR
+                                  {m["titel_de"]} (\VAR{m["anforderungkatego...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45     \rule[0mm]{0cm}{.6cm}\VAR{m["titel_
+                                            de"]} (\VAR{m["anforderungkatego...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:45: Extra }, or forgotten $.
+l.45     \rule[0mm]{0cm}{.6cm}\VAR{m["titel_de"]}
+                                                  (\VAR{m["anforderungkatego...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:45: Undefined control sequence.
+l.45 ...e[0mm]{0cm}{.6cm}\VAR{m["titel_de"]} (\VAR
+                                                  {m["anforderungkategorie"]...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:49: Misplaced alignment tab character &.
+l.49     &
+          
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:51: Undefined control sequence.
+l.51     \makecell
+                  [c]{\xmark}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:51: Undefined control sequence.
+l.51     \makecell[c]{\xmark
+                            }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:56: LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \end{tabularx}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:56: Missing $ inserted.
+<inserted text> 
+                $
+l.56 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:56: Missing } inserted.
+<inserted text> 
+                }
+l.56 \end{tabularx}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (179.43716pt too wide) in paragraph at lines 45--58
+[][]$[]\OML/cmm/m/it/10 e\OT1/cmr/m/n/10 "]([])[][\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 ][][] 
+ []
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:61: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \#
+       {Abkürzungen}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no # in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no k in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 61.
+LaTeX Font Info:    No file cmr.fd. on input line 61.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 61.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:61: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.61 \#{Abkü
+             rzungen}
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 61.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (30.55559pt too wide) in paragraph at lines 61--62
+[]\/cmr/m/n/10 ^^?u 
+ []
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:64: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \newpage
+             \section*{Abkürzungen}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:64: Undefined control sequence.
+<write> ...veranstaltung["dozent"])}})}}{\thepage 
+                                                  }\protected@file@percent }
+l.64 \newpage
+             \section*{Abkürzungen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\@writefile{toc}{\contentsline {subsection}{{veranstaltung["titel_de"]}\ {gray}{(\textit  {{", ".join(veranstaltung["dozent"])}})}}{}\protected@file@percent }
+]
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:64: Undefined control sequence.
+l.64 \newpage\section
+                     *{Abkürzungen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:64: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \newpage\section*
+                      {Abkürzungen}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (25.55557pt too wide) in paragraph at lines 64--66
+[]\/cmr/m/n/10 ^^?u
+ []
+
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:67: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \begin{tabular}
+                    {p{.2\textwidth}p{.8\textwidth}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:69: Undefined control sequence.
+l.69 \VAR
+         {key} & \VAR{value} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+/home/pfaffelh/bwsynchandshare/KommVVZ/MScData-Vorabakkreditierung/template.tex:69: Undefined control sequence.
+l.69 \VAR{key} & \VAR
+                     {value} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (8211.99997pt too wide) in paragraph at lines 67--72
+[][] 
+ []
+
+)
+! Emergency stop.
+<*> ...VZ/MScData-Vorabakkreditierung/template.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 36 strings out of 481239
+ 888 string characters out of 5920377
+ 237564 words of memory out of 5000000
+ 15399 multiletter control sequences out of 15000+600000
+ 532684 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,8n,16p,219b,135s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

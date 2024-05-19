@@ -1,0 +1,72 @@
+\#{Alle Veranstaltungen}
+
+%% for veranstaltung in data["veranstaltung"]
+\clearpage\hrule\vskip1pt\hrule 
+\section*{\Large \VAR{veranstaltung["titel_de"]}}
+\addcontentsline{toc}{subsection}{\VAR{veranstaltung["titel_de"]}\ \textcolor{gray}{(\textit{\VAR{", ".join(veranstaltung["dozent"])}})}}
+\vskip-2ex  
+{\itshape \VAR{", ".join(veranstaltung["dozent"])}}, 
+Assistenz: 
+%% if veranstaltung["assistent"] != []
+{\itshape \VAR{", ".join(veranstaltung["assistent"])}}
+%% else
+{\itshape N.N.}
+%% endif 
+\\
+\VAR{veranstaltung["kategorie"]} \\
+\VAR{"\\\\ ".join(veranstaltung["raumzeit"])}
+
+
+\begin{tabularx}{\textwidth}{ p{.5\textwidth}
+    %% for i in veranstaltung["verwendbarkeit_modul"]
+    X
+    %% endfor
+    }
+    %% for y in veranstaltung["verwendbarkeit_modul"]
+    & 
+    \makecell[c]{\rotatebox[origin=l]{90}{\parbox{
+    %% if veranstaltung["verwendbarkeit_modul"] | length > 3
+    8
+    %% else 
+    3
+    %%endif
+        cm}{\begin{flushleft}
+        %% for m in data["modul"]
+        %% if m["id"] == y 
+        \VAR{m["titel_de"]}
+        %% endif
+        %% endfor
+    \end{flushleft} }}} 
+    %% endfor
+    \\[2ex] \hline 
+    %% for x in veranstaltung["verwendbarkeit_anforderung"]
+    %% for m in data["anforderung"]
+    %% if m["id"] == x
+    \rule[0mm]{0cm}{.6cm}\VAR{m["titel_de"]} (\VAR{m["anforderungkategorie"]})\rule[-3mm]{0cm}{0cm}
+    %% endif
+    %% endfor
+    %% for y in veranstaltung["verwendbarkeit_modul"]    
+    &
+    %% if {"modul": y, "anforderung": x} in veranstaltung["verwendbarkeit"]
+    \makecell[c]{\xmark}
+    %% endif 
+    %% endfor
+    \\
+    %% endfor
+\end{tabularx}
+%% endfor
+
+
+
+\#{Abkürzungen}
+
+
+\newpage\section*{Abkürzungen}
+\addcontentsline{toc}{section}{Abkürzungen}
+
+\begin{tabular}{p{.2\textwidth}p{.8\textwidth}}
+%% for key, value in data["abbrev"].items()
+\VAR{key} & \VAR{value} \\
+%% endfor
+\end{tabular}
+
